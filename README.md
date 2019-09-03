@@ -1,4 +1,8 @@
-# Deep High-Resolution Representation Learning for Human Pose Estimation(accepted to CVPR2019)
+# Deep High-Resolution Representation Learning for Human Pose Estimation (accepted to CVPR2019)
+## News
+- If you are interested in internship or research positions related to computer vision in ByteDance AI Lab, feel free to contact me(leoxiaobin-at-gmail.com).
+- [2019/08/27] HigherHRNet is now on [ArXiv](https://arxiv.org/abs/1908.10357), which is a bottom-up approach for human pose estimation powerd by HRNet. We will also release code and models at [Higher-HRNet-Human-Pose-Estimation](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation), stay tuned!
+- Our new work [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514) is available at [HRNet](https://github.com/HRNet). Our HRNet has been applied to a wide range of vision tasks, such as [image classification](https://github.com/HRNet/HRNet-Image-Classification), [objection detection](https://github.com/HRNet/HRNet-Object-Detection), [semantic segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) and [facial landmark](https://github.com/HRNet/HRNet-Facial-Landmark-Detection).
 
 ## Introduction
 This is an official pytorch implementation of [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212). 
@@ -222,9 +226,9 @@ Many other dense prediction tasks, such as segmentation, face alignment and obje
 ### Citation
 If you use our code or models in your research, please cite with:
 ```
-@inproceedings{SunXLWang2019,
+@inproceedings{sun2019deep,
   title={Deep High-Resolution Representation Learning for Human Pose Estimation},
-  author={Ke Sun, Bin Xiao, Dong Liu, and Jingdong Wang},
+  author={Sun, Ke and Xiao, Bin and Liu, Dong and Wang, Jingdong},
   booktitle={CVPR},
   year={2019}
 }
